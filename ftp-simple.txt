@@ -1,0 +1,42 @@
+ ftp-simple: remote
+ ftp-simple: close
+
+"name": "hpbekas",
+"host": "ftpupload.net",
+"port": 21,
+"type": "ftp",
+"username": "epiz_27087418",
+"password": "xvvmPzk4GRxsv2",
+"path": "/",
+"autosave": true,
+"confirm": true
+		
+"name": "",
+"host": "",
+"port": 21,
+"type": "ftp",
+"username": "",
+"password": "",
+"path": "/",
+"autosave": true,
+"confirm": true
+
+//tiga area
+-statik
+-localhost
+-FTP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

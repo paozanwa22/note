@@ -1,0 +1,14 @@
+//cari penjelasan mengenai
+www.
+http:
+https:
+
+infinityfree.net	//web hosting
+freenom.com		//tempat nama domain
+	satu acount bisa memiliki banyak domain
+
+ns1.byet.org
+ns2.byet.org
+ns3.byet.org
+ns4.byet.org
+ns5.byet.org

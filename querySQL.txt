@@ -1,0 +1,8 @@
+// QUERY
+-"SELECT * FROM mahasiswa" 
+-INSERT INTO mahasiswa VALUE("","",""); //harus sesuai dengan urutan
+-("SELECT * FROM barang WHERE code_barang = $id");
+-UPDATE barang SET 
+	nama = '$nama',
+WHERE condition;
+-

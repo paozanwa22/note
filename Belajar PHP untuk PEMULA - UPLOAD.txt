@@ -1,0 +1,10 @@
+File Handling
+<input type='file' ...
+enctype="multipart/form-data" //supaya gambarnya bisa di ambil
+$_FILES
+move_uploaded_file
+$error === 4 //file kosong
+explode('.', $namaFile);
+strtolower(end($ekstensiGambar));
+!in_array($ekstensiGambar, $ekstensiGambarValid)) 
+uniqid(); //rendom

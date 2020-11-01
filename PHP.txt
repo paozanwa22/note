@@ -1,0 +1,50 @@
+$_GET
+$_POST
+$_FILES
+mysqli_connect();
+mysqli_query();
+mysqli_error();
+mysqli_affected_rows();
+isset
+!isset
+function hapus(){};
+var_dump();
+echo ;
+foreach( as );
+require 'functions.php'; //terhubung ke halaman lain
+htmlspecialchars(); //argumen = yang ingin di saring
+input
+-size="40"
+-autofocus
+-placeholder="masukkan keyword pencarian..."
+-autocomplete="off"
+"SELECT * FROM barang WHERE 
+	nama LIKE '%keyword%' OR
+	nama LIKE '%keyword%' OR
+	nama LIKE '%keyword%'
+";
+
+
+
+//Cek tombol sudah ditekan atau belum
+if( isset($_POST["submit"] ) {
+ var_dump($_POST);
+}
+
+//koneksi ke DBMS
+mysqli_connect("host_name", "username", "password", "nama_database");
+mysqli_connect("localhost", "root", "", "phpdasar");
+
+//
+mysqli_query("mysqli_connect", "pertintah SQL");
+mysqli_query($conn, "SELECT * FROM mahasiswa");
+
+//
+mysqli_affected_rows($conn); //melihat baris yang berubah pada DBMS
+
+//
+mysqli_error($conn);
+
+
+
+
